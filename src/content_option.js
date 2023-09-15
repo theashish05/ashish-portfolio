@@ -12,7 +12,7 @@ const introdata = {
         third: "I design templates,cards",
     },
     description: "To leverage my expertise in React development and passion for creating intuitive user interfaces to contribute to the success of a dynamic and innovative organization, while continuously expanding my skill set and staying up-to-date with the latest industry trends and technologies.",
-    your_img_url: "https://media.licdn.com/dms/image/D5603AQEnstYIMCI8DA/profile-displayphoto-shrink_800_800/0/1672547675458?e=1692230400&v=beta&t=9CRECRPglHu2TOjgBtuAjPNM8JhmvjJPVnmLg-chTQg",
+    your_img_url: "https://media.licdn.com/dms/image/D5603AQEnstYIMCI8DA/profile-displayphoto-shrink_800_800/0/1672547675458?e=1700092800&v=beta&t=bwt3ATTUyFn1lXATgQJ-_HAvnD4BgoM-Owp2IO7oUqQ",
     
 };
 
