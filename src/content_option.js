@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About Myself",
-    aboutme: "I am a dedicated React developer with a passion for creating seamless user experiences. With 7 months of hands-on experience in front-end development, I specialize in React.js and its ecosystem, including Redux, Hooks, and React Router. My expertise in JavaScript, HTML, and CSS allows me to build intuitive, dynamic, and visually appealing interfaces.",
+    aboutme: "I am a dedicated React developer with a passion for creating seamless user experiences. With 2 years of hands-on experience in front-end development, I specialize in React.js and its ecosystem, including Redux, Hooks, and React Router. My expertise in JavaScript, HTML, and CSS allows me to build intuitive, dynamic, and visually appealing interfaces.",
 };
 
 const worktimeline = [
